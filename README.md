@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/luisjunco/luisjunco/main/cover.jpg" alt="cover" />
+</div>
+
+
+# Hi, I'm Luis Junco 👋
+
+FullStack Developer & Lead Teacher at Ironhack, living and coding by the sea in Mallorca.
+<br />
+
+- I've lived and worked in Berlin, London, Zurich, Barcelona, Mallorca.
+- I love board games, hiking, swimming and live music.
+
+<br />
+
+Tech:
+- JavaScript, TypeScript, PHP.
+- React, Node.js, Express, WordPress
+- MongoDB, SQL
+
 
 <!--
-**luisjunco/luisjunco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Linkedin: https://www.linkedin.com/in/luisjunco/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
